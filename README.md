@@ -80,7 +80,7 @@ APP_PIN=1234
 ## 👨‍💻 Membros do grupo
 
 Cristian Oliveira Rocha<br>
-Daniel M C de Castro<br>
+Daniel Monteiro Cupertino de Castro<br>
 Guilherme Fonseca Wandekoe Ken Filho<br>
 Jhonattan Francisco de Souza<br>
 Matheus Lucas dos S F Sacramento<br>
